@@ -33,7 +33,7 @@ After a customer purchases the product from Olist Store, a seller gets notified 
 
 
 ##　Contributers
-Frankie Lam
-Gordon Kwok
-Janny Leung
-Natalie Lau
+* Frankie Lam
+* Gordon Kwok
+* Janny Leung
+* Natalie Lau
