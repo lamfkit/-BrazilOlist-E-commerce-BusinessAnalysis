@@ -32,7 +32,7 @@ After a customer purchases the product from Olist Store, a seller gets notified 
 ![image](https://user-images.githubusercontent.com/112617394/204479161-1afbcf75-c5a6-4817-9751-342ecc11a798.png)
 
 
-##　Contributers
+### Contributers
 * Frankie Lam
 * Gordon Kwok
 * Janny Leung
